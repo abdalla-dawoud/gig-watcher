@@ -1,34 +1,28 @@
-# Gig digest — 2026-11-26 21:48 UTC
+# Gig digest — 2026-11-27 08:19 UTC
 
-24 new match(es) for: python, junior, entry, ai, machine learning, llm, arabic, backend, automation, data, chatbot
+21 new match(es) for: python, junior, entry, ai, machine learning, llm, arabic, backend, automation, data, chatbot
 
 
-## Himalayas (17)
+## Himalayas (21)
 
-- [Editorial Content Manager](https://himalayas.app/companies/darktrace/jobs/editorial-content-manager) — 2026-11-26 — `ai`
-- [Customer Services Officer – Out of Hours Emergency Telephone Service (L2Z2)](https://himalayas.app/companies/fix-space-recruitment-ltd/jobs/customer-services-officer-out-of-hours-emergency-telephone-service-l2z2) — 2026-11-26 — `data`
-- [Copy of Enterprise Data AE - Partnerships](https://himalayas.app/companies/seamless-ai/jobs/copy-of-enterprise-data-ae-partnerships) — 2026-11-26 — `data`
-- [Remote Data Engineer](https://himalayas.app/companies/kentro/jobs/remote-data-engineer) — 2026-11-26 — `data`
-- [Data Analyst](https://himalayas.app/companies/perkinelmer/jobs/data-analyst) — 2026-11-26 — `data`
-- [Senior Software Engineer (Python, AWS)](https://himalayas.app/companies/outsourcery/jobs/senior-software-engineer-python-aws) — 2026-11-26 — `python`
-- [Applied AI Engineer](https://himalayas.app/companies/alcor/jobs/applied-ai-engineer) — 2026-11-26 — `ai`, `data`
-- [Junior Controller (m/w/d)](https://himalayas.app/companies/nicos-gmbh/jobs/junior-controller-m-w-d) — 2026-11-26 — `junior`
-- [AI Social Media Manager (Remote, LATAM)](https://himalayas.app/companies/ecomseo/jobs/ai-social-media-manager-remote-latam) — 2026-11-26 — `ai`
-- [Senior GTM Systems Administrator](https://himalayas.app/companies/anaconda/jobs/senior-gtm-systems-administrator) — 2026-11-26 — `ai`
-- [EOEM Strategic Account Specialist](https://himalayas.app/companies/schneider-electric-cn/jobs/eoem-strategic-account-specialist) — 2026-11-26 — `entry`
-- [AI Software Engineer II (Credit)](https://himalayas.app/companies/nccdirect/jobs/ai-software-engineer-ii-credit-7481777366) — 2026-11-26 — `ai`, `data`
-- [Senior Data Scientist](https://himalayas.app/companies/phastar/jobs/senior-data-scientist) — 2026-11-26 — `data`
-- [Senior Technical Customer Success Manager](https://himalayas.app/companies/cdata-software/jobs/senior-technical-customer-success-manager) — 2026-11-26 — `ai`, `data`
-- [Arquitecto/a de IA Generativa | Software Engineering & AI Solutions](https://himalayas.app/companies/buzzmn/jobs/arquitecto-a-de-ia-generativa-software-engineering-ai-solutions-3991391611) — 2026-11-26 — `ai`
-- [SAP ABAP Consultant Generative AI SDK Development - Germany](https://himalayas.app/companies/x2-nations/jobs/sap-abap-consultant-generative-ai-sdk-development-germany) — 2026-11-26 — `ai`
-- [AI ARCHITECT](https://himalayas.app/companies/buzzmn/jobs/ai-architect-4613599464) — 2026-11-26 — `ai`
-
-## Remotive (7)
-
-- [Tech Lead Full-Stack Rails Engineer — Mitre Media](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746) — n/a — `ai`, `data`
-- [Content Creator - YouTube — Metics Media](https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173) — n/a — `ai`
-- [Remote Office Assistant — Coalition Technologies](https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495) — n/a — `entry`, `data`
-- [Senior Data Engineer — Lemon.io](https://remotive.com/remote-jobs/data/senior-data-engineer-2091137) — n/a — `data`
-- [Content Reviewer - United States — TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166) — n/a — `ai`
-- [Full-Stack Developer — Fluence International, Inc.](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165) — n/a — `ai`
-- [Senior Back-end Developerusa — Lemon.io](https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135) — n/a — `ai`
+- [Software Engineer 4 - AI Native](https://himalayas.app/companies/granicus/jobs/software-engineer-4-ai-native-4240868924) — 2026-11-27 — `ai`
+- [Senior Growth Marketer (SEO & GEO)](https://himalayas.app/companies/blox-space/jobs/senior-growth-marketer-seo-geo) — 2026-11-27 — `data`
+- [ME00703-Software Tester (Manual/Automation)](https://himalayas.app/companies/momentum-engineering-inc/jobs/me00703-software-tester-manual-automation) — 2026-11-27 — `automation`
+- [Senior Data Consultant](https://himalayas.app/companies/prodware-netherlands/jobs/senior-data-consultant) — 2026-11-27 — `data`
+- [Senior Sales Executive, UK](https://himalayas.app/companies/pythian/jobs/senior-sales-executive-uk) — 2026-11-27 — `data`
+- [AI Product & Automation Engineer [Remote]](https://himalayas.app/companies/altovita/jobs/ai-product-automation-engineer-remote) — 2026-11-27 — `ai`, `automation`
+- [Sr Statistical Programmer - CPRD](https://himalayas.app/companies/lifelancer/jobs/sr-statistical-programmer-cprd) — 2026-11-27 — `data`
+- [Remote Fullstack Developer (Java/ React) – Deutsch)](https://himalayas.app/companies/prostaff-schweiz-gmbh/jobs/remote-fullstack-developer-java-react-deutsch) — 2026-11-27 — `backend`
+- [Staff Sales Engineer - Northeast](https://himalayas.app/companies/anaconda/jobs/staff-sales-engineer-northeast) — 2026-11-27 — `ai`
+- [Clinical Data Coordinator II](https://himalayas.app/companies/phastar/jobs/clinical-data-coordinator-ii) — 2026-11-27 — `data`
+- [Lead Business Value Delivery Architect/Solution Architect - ES](https://himalayas.app/companies/sapiens/jobs/lead-business-value-delivery-architect-solution-architect-es) — 2026-11-27 — `ai`
+- [General Counsel, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/general-counsel-remote-contract-9181617916) — 2026-11-27 — `ai`
+- [Data Science Intern](https://himalayas.app/companies/corporate-web-solutions/jobs/data-science-intern) — 2026-11-27 — `data`
+- [AI Safety Specialist - Fully Remote | Upto $22/hr](https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-22-hr-1244083278) — 2026-11-27 — `ai`
+- [Legal Domain Expert - Fully Remote | Upto $120/hr](https://himalayas.app/companies/mercor/jobs/legal-domain-expert-fully-remote-upto-120-hr) — 2026-11-27 — `ai`
+- [Sr Data Analytics Eng](https://himalayas.app/companies/rush-enterprises/jobs/sr-data-analytics-eng) — 2026-11-27 — `data`
+- [Account Executive - North America](https://himalayas.app/companies/orbital-eye/jobs/account-executive-north-america) — 2026-11-27 — `data`
+- [中文专家 Chinese Culture Expert](https://himalayas.app/companies/welocalize/jobs/chinese-culture-expert-432856343) — 2026-11-27 — `ai`
+- [Cancer Registrar](https://himalayas.app/companies/commonspirit-health/jobs/cancer-registrar) — 2026-11-27 — `data`
+- [AI Engineer](https://himalayas.app/companies/chenega-corporation/jobs/ai-engineer) — 2026-11-27 — `ai`
+- [Engineering Manager](https://himalayas.app/companies/blox-space/jobs/engineering-manager) — 2026-11-27 — `data`
